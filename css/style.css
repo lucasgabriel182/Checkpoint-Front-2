@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    background-image: url(../img/netflix.png);
+    width: 1348px;
+    height: 600px;
+}
+
+.dh {
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+.dh-description {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+button {
+    border: 1px solid #33BB69;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.sinopse {
+    background-color: #33BB69;
+    color: white;
+    border: 1px solid #33BB69;
+}
